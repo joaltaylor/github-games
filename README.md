@@ -8,5 +8,6 @@ You can play the game at: https://joaltaylor.github.io/github-games/
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 Thanks For Using.
-Keep Supporting Guys.
+Keep Supporting Guys
+
 Now Time to Enjoy 🙂.
